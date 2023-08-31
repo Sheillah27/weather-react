@@ -8,12 +8,13 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+
       <Days />
       <footer>
         <p>
           This App was coded by Sheillah Wafula and is
           <a
-            href="https://github.com/Sheillah27/Sheillah--Portfolio/commits?author=Sheillah27&since=2023-06-30&until=2023-07-01"
+            href="https://github.com/Sheillah27/weather-react"
             target="_blank"
             rel="noopener noreferrer"
           >
