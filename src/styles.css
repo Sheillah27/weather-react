@@ -1,6 +1,8 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  border: 2px solid black;
+  margin: 50px 50px 50px 50px;
 }
 .App li {
   list-style: none;
