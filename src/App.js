@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./styles.css";
 import Weather from "./Weather";
 import Days from "./Days";
@@ -6,7 +5,7 @@ import Days from "./Days";
 function App() {
   return (
     <div className="App">
-      <h1>Weather App</h1>
+      <h1>React Weather App</h1>
       <Weather />
 
       <Days />
